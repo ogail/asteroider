@@ -1,5 +1,6 @@
 # Asteroider specific files
 temp/
+game/
 
 # Windows image file caches
 Thumbs.db
