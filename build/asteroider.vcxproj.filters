@@ -15,7 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\src\asteroider.cpp">
+    <ClInclude Include="..\src\Asteroider.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\src\Asteroider.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
